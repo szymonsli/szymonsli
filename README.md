@@ -8,7 +8,8 @@ I am currently working as a manual tester, but I practise automating tests with 
 [Linkedin profile](https://www.linkedin.com/in/szymon-sliwinski/)
 
 ## Education
-- WSB Univarsity in Chorzów - Software tester (postgraduate studies)
+- WSB University in Chorzów - Software tester (postgraduate studies)
+- Silesian University of Technology - Civil Engineering (engineer)
 
 ## Tools
 - Selenium Webdriver
@@ -39,6 +40,9 @@ I am currently working as a manual tester, but I practise automating tests with 
 
 ## Books
 - [x] Smilgrin R. "Zawód tester"
+- [x] Hadnagy Ch. "Social Engineering. The Science of Human Hacking"
+- [ ] Rother K. "Pro Python Best Practices. Debugging, Testing and Architecture"
+- [ ] Chelladhurai J, Singh V., Raj P. "Learning Docker"
 
 
 <!---
