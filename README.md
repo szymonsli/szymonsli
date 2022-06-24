@@ -1,8 +1,7 @@
 # About me
 
 Hi,
-My name is Szymon and I'm software tester. 
-I am currently working as a manual tester, but I practise automating tests with Selenium Webdriver or Cypress.
+My name is Szymon and I work as Software Tester.
 
 ## How to reach me
 [Linkedin profile](https://www.linkedin.com/in/szymon-sliwinski/)
@@ -12,35 +11,42 @@ I am currently working as a manual tester, but I practise automating tests with 
 - Silesian University of Technology - Civil Engineering (engineer)
 
 ## Tools
+- Postman
+- Jira, YouTrack
+- Github, Bitbucket, Gitlab
+
+## Testing Skills
+- Manual testing
+- Test Automation
 - Selenium Webdriver
 - Cypress
-- Robot Framework
-- Jira
-- Github, Bitbucket
-- Sourcetree, Github Desktop
-- Pytest
-
-## Tech Skills
-- Manual testing
-- Knowledge of Scrum methodology
+- WebdriverIO
+- Rest API testing
 - Knowledge of ISTQB theory
+- Knowledge of Scrum methodology
+- Basics of security testing
+- Robot Framework
+
+## Programming Skills
 - Python
 - JavaScript
+- TypeScript
+- Kotlin
+- Vue.js
 - SQL
 - Git
 - Linux
-- REST API
+- Rest API
 - HTML
 - CSS
 
 ## In my plans
-- Postman
-- Appium
-- JMeter
+- NestJS
 
 ## Books
 - [x] Smilgrin R. "Zawód tester"
 - [x] Hadnagy Ch. "Social Engineering. The Science of Human Hacking"
+- [ ] Kunysz A. "Kierunek jakość. Jak unikać błędów w projekcie"
 - [ ] Rother K. "Pro Python Best Practices. Debugging, Testing and Architecture"
 - [ ] Chelladhurai J, Singh V., Raj P. "Learning Docker"
 
