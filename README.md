@@ -18,6 +18,7 @@ My name is Szymon and I work as Software Tester.
 ## Testing Skills
 - Manual testing
 - Test Automation
+- Playwright
 - Selenium Webdriver
 - Cypress
 - WebdriverIO
@@ -25,30 +26,15 @@ My name is Szymon and I work as Software Tester.
 - Knowledge of ISTQB theory
 - Knowledge of Scrum methodology
 - Basics of security testing
-- Robot Framework
-
-## Programming Skills
 - Python
 - JavaScript
 - TypeScript
 - Kotlin
-- Vue.js
 - SQL
 - Git
 - Linux
-- Rest API
 - HTML
 - CSS
-
-## In my plans
-- NestJS
-
-## Books
-- [x] Smilgrin R. "Zawód tester"
-- [x] Hadnagy Ch. "Social Engineering. The Science of Human Hacking"
-- [ ] Kunysz A. "Kierunek jakość. Jak unikać błędów w projekcie"
-- [ ] Rother K. "Pro Python Best Practices. Debugging, Testing and Architecture"
-- [ ] Chelladhurai J, Singh V., Raj P. "Learning Docker"
 
 
 <!---
