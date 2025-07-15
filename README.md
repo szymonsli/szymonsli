@@ -6,35 +6,40 @@
   szymon-sliwinski
 </a>
 
-
 - Discord: meric_t
 
-## Skills
+## 🧠 Skills
 - prompting
 - test planning
 - test automation
 - SQL
 - Git
 - Linux
-- React
+- OWASP Top10
 
-## Programming languages
+## 💻 Programming languages
  - TypeScript  
  - JavaScript  
  - Python  
  - Kotlin
 
-## Testing frameworks and apps
+## 📏 Testing frameworks and apps
 - Playwright  
 - Webdriver.io  
 - Cypress  
 - Postman
 
-## Other tools
+## 🪛 Other tools
 - Youtrack, Jira
 - Gitlab, Github, Bitbucket
+- Burp Suite, nmap, Metasploit
 
-## (non-programming) Languages
+## 🌐 (non-programming) Languages
 - Polish - native
 - English - B2
 - Italian - A1
+
+## 📚 Library
+- Wprowadzenie do bezpieczeństwa IT - Part 1 - Securitum
+- Wprowadzenie do bezpieczeństwa IT - Part 2 - Securitum
+- Hacking APIs: Breaking Web Application Programming Interfaces - Corey Ball
