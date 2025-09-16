@@ -1,21 +1,21 @@
 # Szymon Śliwiński</h1>
 ### Bug Whisperer | Software tester | Test automation enginner | Cybersecurity Enthusiast | API breaker
-- <a href="mailto:kontakt@szymonsli.pl">kontakt@szymonsli.pl</a>
-    
 - <a href="https://linkedin.com/in/szymon-sliwinski" target="_blank">
-  szymon-sliwinski
+  LinkedIn
 </a>
+
+- <a href="https://tryhackme.com/p/szymonsli" target="_blank"> TryHackMe </a>
 
 - Discord: meric_t
 
 ## 🧠 Skills
-- prompting
 - test planning
 - test automation
 - SQL
 - Git
 - Linux
 - OWASP Top10
+- prompting
 
 ## 💻 Programming languages
  - TypeScript  
