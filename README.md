@@ -1,5 +1,5 @@
 # Szymon Śliwiński
-### Bug Whisperer | Software tester | Test automation enginner | Cybersecurity Enthusiast | API breaker
+### Bug Whisperer | Software tester | Test automation enginner | Cybersecurity Enthusiast
 
 ### Motto: Further Beyond
 
