@@ -1,10 +1,6 @@
 # Szymon Śliwiński
 ### Bug Whisperer | Software tester | Test automation enginner | Cybersecurity Enthusiast
 
-### Motto: Further Beyond
-
-It reminds me to constantly push my limits
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/szymonsli.png" alt="Your Image Badge" />
 
 
@@ -15,11 +11,9 @@ It reminds me to constantly push my limits
 
 - <a href="https://tryhackme.com/p/szymonsli" target="_blank"> TryHackMe </a>
 
-- Discord: meric_t
-
 ## 🧑‍🎓 Continuous (self)Improvement
-- Software Tester - Postgraduate Studies - WSB Merito University
 - Cybersecurity Management (in progress!) - Postgraduate Studies - Silesian University of Technology
+- Software Tester - Postgraduate Studies - WSB Merito University
 - sekurak.academy
 - TryHackMe
 - PortSwigger Academy
@@ -27,10 +21,16 @@ It reminds me to constantly push my limits
 
 ## 📃 Certificates
 - ISTQB Certified Tester Foundation Level
+- MITC Software Testing Level 01
 
 ## 📚 Books in my library
 - Wprowadzenie do bezpieczeństwa IT - Part 1 - Securitum
 - Wprowadzenie do bezpieczeństwa IT - Part 2 - Securitum
-- Hacking APIs: Breaking Web Application Programming Interfaces - Corey Ball
-- Cybersecurity – Attack and Defense Strategies - Yuri Diogenes, Erdal Ozkaya
+- Bezpieczeństwo aplikacji webowych - Securitum
 - The Art of Deception - Kevin Mitnick
+- Social Engineering: The Science of Human Hacking - Christopher Hadnagy
+- Foundations of Information Security. A Straightforward Introduction - Jason Andress
+- Hacking APIs: Breaking Web Application Programming Interfaces - Corey Ball
+- Cybersecurity - Attack and Defense Strategies - Yuri Diogenes, Erdal Ozkaya
+- Blockchain - Imran Bashir
+- Learning DevOps - Mikael Krief
