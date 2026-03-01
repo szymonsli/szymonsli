@@ -1,5 +1,5 @@
 # Szymon Śliwiński
-### Bug Whisperer | Software tester | Test automation enginner | Cybersecurity Enthusiast
+### QA | Testing | Cybersecurity
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/szymonsli.png" alt="Your Image Badge" />
 
